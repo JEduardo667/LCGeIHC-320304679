@@ -1,0 +1,12 @@
+# Blender 5.2.2 LTS MTL File: 'satelite.blend'
+# www.blender.org
+
+newmtl Dragon.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd OBJ/OBJ/Albedo.jpg
+map_Ns OBJ/OBJ/C:/Users/User/Desktop/3д модели/Dragon_Satelit/reflection2.jpg
+map_Ke OBJ/OBJ/emission.jpg
