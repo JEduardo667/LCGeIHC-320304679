@@ -1,0 +1,12 @@
+# Blender 5.2.2 LTS MTL File: 'avion_texturizado.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lalom/Desktop/FI/SEMESTRE 2027_1/Lab. Computacion Grafica e Interaccion Humano Computadora/PRACTICAS/practica7/P07-320304679/P07-320304679/Textures/avion_texturas_escalado.tga
