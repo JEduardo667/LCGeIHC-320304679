@@ -15,7 +15,7 @@ Repositorio de sistema de control de versiones para la materia de Computación G
 Se encuentra en el sistema de alamacenamiento de google Drive externo. Incluye código, modelos, texturas y archivos de Blender.
 
 [Descargar práctica 10](https://drive.google.com/drive/folders/1p1cv_bdGbUg8nNHyWyhueY--fJHzVNgD?usp=sharing)
-
+[Video de funcionamiento](https://youtu.be/UD-D3b6eVQo)
 ---
 
 - **Nombre completo:** José Eduardo Martínez García
